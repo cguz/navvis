@@ -1,0 +1,35 @@
+A:link {
+        TEXT-DECORATION: none
+}
+A:visited {
+        TEXT-DECORATION: none
+}
+A:active {
+        TEXT-DECORATION: none
+}
+A:hover {
+        TEXT-DECORATION: underline
+}
+
+.letrasb {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        font-style: normal;
+        font-weight: bold;
+        color: #FFFFFF;
+        text-decoration: none;
+
+}
+.links {  font-family: Georgia, "Times New Roman", Times, serif; font-size: 14px; color: #006699; text-decoration: underline}
+.textolink {  font-family: Geneva, Arial, Helvetica, san-serif; font-size: 12px; font-weight: 300; color: #000000;}
+FONT		{FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; FONT-SIZE: 11px}
+TD		{FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; FONT-SIZE: 11px}
+BODY		{FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; FONT-SIZE: 11px}
+P		{FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; FONT-SIZE: 11px}
+DIV		{FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; FONT-SIZE: 11px}
+INPUT		{FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; FONT-SIZE: 11px; background-color:#EFEFEF; border-color:#DDDDDD}
+TEXTAREA	{FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; FONT-SIZE: 11px}
+FORM 		{FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; FONT-SIZE: 11px}
+SELECT		{FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; FONT-SIZE: 11px; background-color:#EFEFEF; border-color:#DDDDDD; width:150px;}
+.alertas { color: #FF3300; font-weight: bold; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; }
+area	{FONT-FAMILY: Arial; FONT-SIZE: 11px}

@@ -1,0 +1,347 @@
+body {
+    margin-bottom: 0px;
+    font-family: Verdana;
+    font-size: 10px;
+    font-style: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    color: #525252;
+}
+td, textarea, input, select {
+    font-family: Tahoma;
+    font-size: 10px;
+    color: #1C2122;
+    font-weight: normal;
+}
+.tableDetail {
+    font-size: 10px;
+    font-family: Verdana;
+    color: #49394E;
+}
+a:link {
+    color: #65676A;
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+a:hover {
+    color: #8DC43F;
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: bold;
+    font-style: normal;
+    line-height: normal;
+    font-variant: normal;
+    text-transform: none;
+    border: thin none #FFFFFF;
+    text-decoration: underline;
+}
+a:visited {
+    color: #65676A;
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: bold;
+    font-style: normal;
+}
+.text1 {
+    font-family: tahoma;
+    font-size: 10px;
+    color: #2F2F2F;
+    font-weight: bold;
+}
+.text2 {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: bold;
+    color: #FF8112;
+}
+.text3 {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: bold;
+    color: #DA7C02;
+}
+.text4 {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: normal;
+    color: #33485D;
+}
+.text5 {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: normal;
+    color: #65676A;
+}
+.text6 {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: normal;
+    color: #9E9E9E;
+}
+.text7 {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: bold;
+    color: #000000;
+}
+.text8 {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: normal;
+    color: #94AEC5;
+}
+.text9 {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: normal;
+    color: #4E4E4E;
+}
+.text10 {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: normal;
+    color: #6cb504;
+}
+.text11 {
+    font-family: tahoma;
+    font-size: 12px;
+    font-weight: bold;
+    color: #000000;
+}
+.titulo {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #6cb504;
+}
+.frame {
+    border: 1px solid #F0F3F6;
+}
+.designed_by {
+    font-family: Arial;
+    font-size: 8.5px;
+    font-weight: lighter;
+    color: #000000;
+}
+a.a:link {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: bold;
+    color: #3E4B4F;
+    text-decoration: underline;
+}
+a.a:hover {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: bold;
+    color: #8DC43F;
+    text-decoration: underline;
+}
+a.a:visited {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: bold;
+    color: #3E4B4F;
+    text-decoration: underline;
+}
+a.a:active {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: bold;
+    color: #8DC43F;
+    text-decoration: underline;
+}
+a.b:link {
+
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: normal;
+    color: #6CB504;
+    text-decoration: underline;
+}
+a.b:hover {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: normal;
+    color: #2F2F2F;
+    text-decoration: underline;
+}
+a.b:visited {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: normal;
+    color: #6CB504;
+    text-decoration: underline;
+}
+a.c:link {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: normal;
+    color: #DA7C02;
+    text-decoration: underline;
+}
+a.c:hover {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: normal;
+    color: #1E140A;
+    text-decoration: underline;
+}
+a.c:visited {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: normal;
+    color: #DA7C02;
+    text-decoration: underline;
+}
+a.d:link {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: normal;
+    color: #33485d;
+    text-decoration: underline;
+}
+a.d:hover {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: normal;
+    color: #E4141A;
+    text-decoration: underline;
+}
+a.d:visited {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: normal;
+    color: #000000;
+    text-decoration: underline;
+}
+a.e:link {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: bold;
+    color: #944F23;
+    text-decoration: underline;
+}
+a.e:hover {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: bold;
+    color: #4E4E4E;
+    text-decoration: underline;
+}
+a.e:visited {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: bold;
+    color: #944F23;
+    text-decoration: underline;
+}
+a.f:link {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: normal;
+    color: #594B13;
+    text-decoration: underline;
+}
+a.f:hover {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: normal;
+    color: #4E4E4E;
+    text-decoration: underline;
+}
+a.f:visited {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: normal;
+    color: #594B13;
+    text-decoration: underline;
+}
+a.g:link {
+    font-family: tahoma;
+    font-size: 11px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+}
+a.g:hover {
+    font-family: tahoma;
+    font-size: 11px;
+    font-weight: bold;
+    color: #FF6600;
+    text-decoration: underline;
+}
+a.g:visited {
+    font-family: tahoma;
+    font-size: 11px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+}
+.inputstyle {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: normal;
+    color: #5F726F;
+    background-color: #E2EDEB;
+    border: 1px solid #333333;
+}
+.inputstyle_alert {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: normal;
+    color: #5F726F;
+    background-color: #E2EDEB;
+    border: 1px solid #CC0000;
+}
+.areastyle {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: normal;
+    /*color: #5F726F;
+    background-color: #E2EDEB;*/
+    border: 1px solid #333333;
+}
+.areastyle_alert {
+    font-family: tahoma;
+    font-size: 10px;
+    font-weight: normal;
+    /*color: #5F726F;
+    background-color: #E2EDEB;*/
+    border: 1px solid #CC0000;
+}
+.listing tr:hover, 
+.listing tr.hilite {
+    background-color:#E2EDEB;
+}
+.norevisado {
+    background-color:#FFEFEF;
+    border: 1px solid #CC0000;
+}
+.listing td {
+    padding:5px 10px 5px 0;
+    white-space:nowrap;
+    vertical-align:top;
+    font-size: 11px;
+    font-weight: bold;
+}
+.caja_buscar {
+	border: 1px solid #666666;
+	background-color: #EFEFEF;
+}
+.imagen {
+	border: 1px solid #6cb504;
+	background-color: #EFEFEF;
+}
+.imagen:hover {
+	border: 1px solid #DA7C02;
+	background-color: #EFEFEF;
+}
+.imagen2 {
+	border: 1px solid #666666;
+	background-color: #EFEFEF;
+}

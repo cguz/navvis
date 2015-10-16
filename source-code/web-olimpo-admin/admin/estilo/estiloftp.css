@@ -1,0 +1,56 @@
+/* CSS Document */
+
+.texto_peq {
+	font-size: 9px;
+	font-family: Verdana;
+	text-decoration:none;
+	color:#426077;
+}
+
+A.texto_peq {
+	font-size: 9px;
+	font-family: Verdana;
+	text-decoration:none;
+	color:#4B6989;
+}
+
+A.texto_peq:hover {
+	font-size: 9px;
+	font-family: Verdana;
+	text-decoration:none;
+	color:#FF0000;
+}
+.texto_normal {
+	font-family: Verdana;
+	font-size: 11px;
+	color: #39526A;
+	text-decoration:none;
+	border:'1' 'groove' '#000066';
+}
+.titulo_azul {
+	color: #1D6096;
+	font-weight: bold;
+	font-size: 11px;
+	font-family: Verdana;
+}
+
+.texto_tam {
+	font-size: 9px;
+	color: #BFC2C4;
+	font-family:Verdana;
+	text-decoration:none;
+}
+
+A.texto_tam {
+	font-size: 9px;
+	color: #BFC2C4;
+	font-family:Verdana;
+	text-decoration:none;
+}
+A.texto_tam:hover{
+	font-size: 9px;
+	color: #BFC2C4;
+	font-family:Verdana;
+	text-decoration:none;
+}
+

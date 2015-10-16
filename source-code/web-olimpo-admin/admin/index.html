@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD html 4.01 Transitional//EN">
+<html><head>
+
+<link rel="SHORTCUT ICON" href="http://sitio.com/web/favi.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><title>Panel de Control - Web inmobiliaria</title>
+
+<style>
+	.style1 {
+	color: #A1A1A1;
+	font-size: 36px;
+	font-weight: bold;
+}
+.style2 {font-size: 24px}
+.style3 {
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+</style>
+	</head><body style="margin: 0pt; padding: 0pt;"><!-- startscrmprint --><script type="text/javascript" language="JavaScript">
+<!-- Begin
+function set_focus() {
+	if (document.DetailView.user_name.value != '') {
+		document.DetailView.user_password.focus();
+		document.DetailView.user_password.select();
+	}
+	else document.DetailView.user_name.focus();
+}
+//  End -->
+</script>
+
+
+<br><br>
+<div align="center">
+  <!-- Login Starts -->
+<table border="0" cellpadding="0" cellspacing="0" width="700">
+		<tbody><tr>
+			<td class="bg" width="25%">&nbsp;</td>
+			<td class="bg" align="right" width="50%"><div align="center" class="style1">
+			  <table border="0" cellpadding="0" cellspacing="0" width="80%">
+                <tbody>
+                  <tr>
+                    <td class="style1 style2">&nbsp;</td>
+                  </tr>
+                </tbody>
+		      </table>
+			</div></td>
+		    <td class="bg" align="right" width="25%">&nbsp;</td>
+		</tr>
+		<tr>
+			<td class="small z1" align="center">&nbsp;</td>
+	       		<td class="small z2" align="center">
+						<!-- Sign in form -->
+				<br>
+				<form action="index.php" method="post" name="DetailView" id="form">
+				<input name="action" value="Authenticate" type="hidden">
+					<table border="0" cellpadding="0" cellspacing="0" width="80%">
+					<tbody><tr>
+						<td class="signinHdr"><span class="bg"><img src="images/logo.jpg" alt="Inmo" width="239" height="88" title="Inmo"></span></td>
+					</tr>
+					<tr>
+						<td class="small">
+						<!-- form elements -->
+							<br>
+							<table border="0" cellpadding="5" cellspacing="0" width="100%">
+							<tbody><tr>
+								<td width="30%" align="right" class="style3">User Name:</td>
+								<td class="style3" align="left" width="70%"><input class="small" name="user_name" value="" tabindex="1" type="text"></td>
+							</tr>
+							<tr>
+								<td class="style3" align="right" width="30%">Password:</td>
+								<td class="style3" align="left" width="70%"><input class="small" size="20" name="user_password" value="" tabindex="2" type="password"></td>
+							</tr>
+														<tr>
+								<td class="small">&nbsp;</td>
+								<td class="small"><input title="Login [Alt+L]" alt="Login [Alt+L]" accesskey="Login [Alt+L]" src="images/btnSignInNEW.gif" name="Login" value="  Login  " tabindex="5" type="image"></td>
+							</tr>
+							</tbody></table>
+							<br><br>						</td>
+					</tr>
+					</tbody></table>
+				</form>			</td>
+		        <td class="small z2" align="center">&nbsp;</td>
+		</tr>
+	</tbody></table>
+</div>
+<!-- stopscrmprint -->
+		<script language="javascript">
+		function LogOut(e)
+		{
+			var nav4 = window.Event ? true : false;
+			var iX,iY;
+			if (nav4)
+			{
+				iX = e.pageX;
+				iY = e.pageY;
+			}
+			else
+			{
+				iX = event.clientX + document.body.scrollLeft;
+				iY = event.clientY + document.body.scrollTop;
+
+			}
+			if (iX <= 30 && iY < 0 )
+			{
+				w=window.open("index.php?action=Logout&module=Users");
+				w.close();
+			}
+		}
+	//window.onunload=LogOut
+	</script>
+		<script language="JavaScript" type="text/javascript" src="images/popup.js"></script>
+		<br>
+		<table class="settingsSelectedUI" border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr>
+		  <td class="small" align="left"><span style="color: rgb(153, 153, 153);">Babit Tecnology  &copy; 2007</span></td>
+		  <td class="small" align="right">&nbsp;</td>
+		</tr></tbody></table>		<script>
+			var userDateFormat = "";
+		</script>
+<!--end body panes-->
+
+
+
+</body></html>
